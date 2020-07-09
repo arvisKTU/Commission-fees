@@ -1,0 +1,19 @@
+{
+  "name": "commission-fees",
+  "version": "1.0.0",
+  "description": "program that calculates commission fees for cash-in and cash-out",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Arvydas Bruklys",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "mocha-sinon": "^2.1.2",
+    "moment": "^2.27.0",
+    "sinon": "^9.0.2",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
