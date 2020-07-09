@@ -1,10 +1,10 @@
 Project was created using Visual Studio Code
 
 To run the project you need:
-1. To be in /Task/modules folder
+1. To be in /Commission-fees-master/modules folder
 2. Run command "node app.js <INPUT FILE PATH>"
 In this program program can be run by writing command "node app.js ../input.json"
 
 To run the tests you need:
-1. To be in /Task folder
+1. To be in /Commission-fees-master folder
 2. Run commant "npm run test"
